@@ -1,5 +1,7 @@
 [🇪🇸 Español](README.md) | 🇺🇸 English
 
+
+
 # DataCo Global Supply Chain — Delivery Time Analysis and Economic Impact
 
 ## 1.0 Project Summary
