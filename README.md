@@ -1,4 +1,4 @@
- 🇪🇸 Español | [us English](README.en.md)
+ 🇪🇸 Español | [🇺🇸 English](README.en.md)
 
 # DataCo Global Supply Chain — Análisis de Tiempos de Entrega e Impacto Económico
 
