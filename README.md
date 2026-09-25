@@ -27,8 +27,7 @@ tiene en la empresa al no cumplir con estos tiempos.
 
 ## 3.0 Fuente de datos
 
-Nombre del dataset**:** **DataCo Smart Supply Chain for Big Data
-Analysis**
+Nombre del dataset : DataCo Smart Supply Chain for Big Data Analysis
 
 Link:<https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis>
 
